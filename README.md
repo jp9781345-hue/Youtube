@@ -51,4 +51,19 @@ Algumas delas são:
 - APIs: Permitem a comunicação entre o Youtube, aplicativos e outros serviços.
 
 ## Requisitos Técnicos
+O Youtube pode ser utilizados em diversas plataformas alguns deles sendo:
 
+- Windows: Windos 7, 8, 10 e 11
+- Android: Android 7 ou superior
+- Navegadores: Chrome, Firefox, Edge, Opera e Safari.
+- Smart TVs: O Youtube está disponível na maioria das Smast TVs, mas tem q ver a compatibilidade. Ela depende do modelo e do sistema operacional.
+
+O Youtube precisa estar conectado a Internet para conseguir acessar os vídeos e shorts ou publicá-los.
+
+## Desenvolvedores
+Nesta atividade, Nós somos o representante pelo desenvolvimento do Youtube.
+
+### Integrantes
+
+- João Pablo nascimento dos santos
+- Henrique teixeira borges leal
