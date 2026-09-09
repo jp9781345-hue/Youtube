@@ -34,3 +34,18 @@ As principais funcionalidades do Yotube são:
 - Subir shorts
 - Fazer uma publicação
 - Compartilhar vídeos
+
+## Tecnologias Utilizadas
+O Youtube usa muitas tecnologias variadas em seu desenvolvimentos.
+
+Algumas delas são:
+
+- Python: Utilizado em serviços de back-end e aplicações em grande escala.
+- JavaScript: Responsável por grande parte das interações e funcionalidades do site.
+- HTML e CSS: Utilizados para estruturar e estilizar a página.
+- C++: Utilizado em sistemas que precisam de alto desempenho, como processamento de vídeos.
+- SQL\Banco de dados: Utilizados para armazenar informações de usúarios, vídeos, comentários e outros dados.
+- APIs: Permitem a comunicação entre o Youtube, aplicativos e outros serviços.
+
+## Requisitos Técnicos
+
