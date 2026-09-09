@@ -1,4 +1,6 @@
-# Youtube (<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/c4ade2dd-2d53-4670-9369-5d989957cc92" />)
+<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/c4ade2dd-2d53-4670-9369-5d989957cc92" />
+
+# Youtube
 
 Trabalho acadêmico sobre o App/Site Youtube
 ## Descrição
