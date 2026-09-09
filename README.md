@@ -1,7 +1,8 @@
 <img width="576" height="347" alt="image" src="https://github.com/user-attachments/assets/f1abbd17-3ed9-427a-b471-b30b2458a513" />
 
 
-# Youtube <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f3eff8c3-a434-48bd-b0c6-8a05c3bd9c4a" />
+# Youtube 
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b30fcdd4-109e-485e-95b6-e7e68e3eadf7" />
 
 
 Trabalho acadêmico sobre o App/Site Youtube
