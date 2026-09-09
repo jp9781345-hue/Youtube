@@ -2,9 +2,6 @@
 
 
 # Youtube 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b30fcdd4-109e-485e-95b6-e7e68e3eadf7" />
-
-
 Trabalho acadêmico sobre o App/Site Youtube
 ## Descrição
 O Youtube é um App/Site onde é possível assistir Diversos e variados vídeos, e também criar videos, criando um canal
