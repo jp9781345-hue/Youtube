@@ -67,9 +67,11 @@ Nesta atividade, Nós somos o representante pelo desenvolvimento do Youtube.
 
 - João Pablo nascimento dos santos
 - Henrique teixeira borges leal
+- 
 
 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/51ac0482-bb7b-4947-af53-391decaffb6a" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/51ac0482-bb7b-4947-af53-391decaffb6a" />  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/1429d1f1-3205-468b-8cb9-089071019aa0" />
+
 
 
 
