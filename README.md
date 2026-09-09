@@ -1,4 +1,5 @@
-<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/c4ade2dd-2d53-4670-9369-5d989957cc92" />
+<img width="576" height="347" alt="image" src="https://github.com/user-attachments/assets/f1abbd17-3ed9-427a-b471-b30b2458a513" />
+
 
 # Youtube
 
@@ -67,3 +68,8 @@ Nesta atividade, Nós somos o representante pelo desenvolvimento do Youtube.
 
 - João Pablo nascimento dos santos
 - Henrique teixeira borges leal
+
+
+
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5a6b1fb1-be92-4b11-ba1e-6176b2755ddf" />
+
