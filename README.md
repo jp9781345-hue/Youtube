@@ -1,5 +1,4 @@
-# Youtube ![Imagem png da logo do  youtube](<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/c4ade2dd-2d53-4670-9369-5d989957cc92" />
-)
+# Youtube (<img width="499" height="280" alt="image" src="https://github.com/user-attachments/assets/c4ade2dd-2d53-4670-9369-5d989957cc92" />)
 
 Trabalho acadêmico sobre o App/Site Youtube
 ## Descrição
