@@ -69,6 +69,7 @@ Nesta atividade, Nós somos o representante pelo desenvolvimento do Youtube.
 - Henrique teixeira borges leal
 
 
-<img width="980" height="431" alt="image" src="https://github.com/user-attachments/assets/e8666293-1bb8-4976-a548-a3da0fdec93d" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/51ac0482-bb7b-4947-af53-391decaffb6a" />
+
 
 
