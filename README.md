@@ -15,3 +15,22 @@ O Youtube é destinado a qualquer tipo de pessoa que ama aproveitar seu tempo as
 - Streamers
 - Influencer
 - E pessoas de todas as idades
+
+## Funcionalidades
+As principais funcionalidades do Yotube são:
+
+- Abrir vídeos
+- Criar Playlists
+- Publicar anúncios
+- Acessoa conteúdos variados
+- Publicar seus vídeos
+- Dar like
+- Se inscrever
+- Acessar configurações de qualidades dos vídeos
+- É possível ganhar dinheiro
+- Pausar vídeos
+- Poder ver o Histórico do vídeo
+- Criar uma biblioteca de vídeos
+- Subir shorts
+- Fazer uma publicação
+- Compartilhar vídeos
