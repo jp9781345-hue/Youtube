@@ -6,7 +6,9 @@ e sendo até monetizado por isso.
 
 O App/Site pode ser utilizado no dia a dia pra você aproveitar seu tempo.
 ## Público-Alvo
-O Youtube é destinado a qualquer tipo de pessoa que ama aproveitar seu tempo assistindo a vídeos, mas principalmente a:
+O Youtube é destinado a qualquer tipo de pessoa que ama aproveitar seu tempo assistindo a vídeos
+
+ Mas principalmente a:
 
 - Pessoas que amam assistir vídeos
 - Criadores de conteúdo
