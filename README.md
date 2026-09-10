@@ -70,7 +70,7 @@ Nesta atividade, Nós somos o representante pelo desenvolvimento do Youtube.
 - 
 
 
-  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/51ac0482-bb7b-4947-af53-391decaffb6a" />  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/1429d1f1-3205-468b-8cb9-089071019aa0" /> <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/775ce4e1-e428-4e96-8a58-4f6a55e9e6c4" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/51ac0482-bb7b-4947-af53-391decaffb6a" />  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/1429d1f1-3205-468b-8cb9-089071019aa0" /> <https://icons8.com/icon/ISBCNY3NwyMM/youtube-play--v2>
 
 
 
